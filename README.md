@@ -68,16 +68,6 @@ public class Main {
 
 ---
 
-## 📈 Future Enhancements
-
-> Coming Soon (optional):
-- TTL (Time-To-Live) expiry logic using heap/timer
-- Persistent storage layer (optional)
-- Trie-based prefix search
-- Command-line interface (CLI) to mimic Redis CLI
-
----
-
 ## 📄 License
 
 This project is for educational purposes and not affiliated with the official [Redis](https://redis.io) project.
